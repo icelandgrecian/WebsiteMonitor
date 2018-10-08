@@ -1,6 +1,6 @@
 # WebsiteMonitor
 
-Simple C# app that scans URLs and emails if there are issues connecting to the sites:
+Simple C# app that scans URLs and emails if there are issues connecting to the sites. The lists of sites are contained in the file sites.txt
 
 App.config settings:
 
